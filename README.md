@@ -185,5 +185,5 @@ class ending:
 [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)
 
 # Contributers 
-* Muhammed Shahud - https://github.com/shahud1
+* Muhammad Shahud - https://github.com/shahud1
 * boycatbay - https://github.com/boycatbay
